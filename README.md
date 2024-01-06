@@ -1,4 +1,4 @@
-# Image-Text Matching for Photo Search PoC
+# Text-Image Matching for Photo Search PoC
 
 Welcome to the GitHub repository for the "With Sense Photo Search PoC" project. In this project, we aim to develop a Proof of Concept (PoC) for an on-demand image search system that allows photographers to search for photos based on text descriptions. This PoC will serve as a demonstration of the feasibility of such a project.
 
